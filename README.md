@@ -1,5 +1,9 @@
 # Claude Skills Marketplace
 
+[![GitHub stars](https://img.shields.io/github/stars/mhattingpete/claude-skills-marketplace)](https://github.com/mhattingpete/claude-skills-marketplace/stargazers)
+[![License](https://img.shields.io/github/license/mhattingpete/claude-skills-marketplace)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/mhattingpete/claude-skills-marketplace)](https://github.com/mhattingpete/claude-skills-marketplace/commits)
+
 A curated marketplace of Claude Code plugins for software engineering workflows.
 
 <img src="assets/skill-loading.gif" alt="Skill Loading Demo" width="600">
@@ -534,3 +538,11 @@ Here's how the skills and agent work together for a typical feature development 
 ---
 
 **Note**: These skills are generalized for broad software engineering use. Adapt descriptions and instructions to fit your specific workflows.
+
+## Other Projects by the Author
+
+- **[personal-ai-os](https://github.com/mhattingpete/personal-ai-os)** — Automate your digital life with natural language
+- **[agent-composer](https://github.com/mhattingpete/agent-composer)** — Local-first multi-agent AI platform
+- **[outlook-mcp](https://github.com/mhattingpete/outlook-mcp)** — MCP server for Microsoft Outlook
+- **[nemlig-shopper](https://github.com/mhattingpete/nemlig-shopper)** — CLI grocery shopping tool ([PyPI](https://pypi.org/project/nemlig-shopper/))
+- **[Portfolio](https://mhattingpete.github.io)** — Personal portfolio site
